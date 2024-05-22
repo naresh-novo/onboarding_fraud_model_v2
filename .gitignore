@@ -1,0 +1,21 @@
+
+.DS_Store
+
+# Code folder
+code/.DS_Store
+code/.ipynb_checkpoints/*
+code/__pycache__/*
+code/config.yaml
+code/modules/__pycache__
+
+
+# Model folders
+
+
+# Output folder
+output/*
+
+# Data folder
+data/*
+
+
